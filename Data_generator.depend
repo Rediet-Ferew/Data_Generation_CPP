@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1687374722 source:c:\users\rediet ferew\desktop\cpp_data_generator\data_generator\data_preprocessing.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<sstream>
+
+1687377338 source:c:\users\rediet ferew\desktop\cpp_data_generator\data_generator\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<random>
+
+1687066173 c:\users\rediet ferew\appdata\local\programs\python\python311\lib\site-packages\numpy\core\include\numpy\random
+
